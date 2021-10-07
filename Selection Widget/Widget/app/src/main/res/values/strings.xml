@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Widget</string>
+    <string-array name="Gol">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>International</item>
+    </string-array>
+
+    <string-array name="Ukt">
+        <item>Bidikmisi</item>
+        <item>Rp. 1,000,000</item>
+        <item>Rp. 2,000,000</item>
+        <item>Rp. 3,000,000</item>
+        <item>Rp. 4,000,000</item>
+        <item>Rp. 5,000,000</item>
+    </string-array>
+
+</resources>
